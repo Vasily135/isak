@@ -6,7 +6,7 @@
 
 ### Пример выполнения программы main.py :
 
-  ![Screenshot](Paris.png)
+  ![Screenshot](ex1.png)
    
 ## Задание 2
 
